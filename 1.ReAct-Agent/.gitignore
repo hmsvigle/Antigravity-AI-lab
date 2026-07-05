@@ -1,0 +1,12 @@
+# Virtual environment folder (removable, do not push to git)
+.venv/
+
+# Local environment configuration (contains sensitive URLs/keys)
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
